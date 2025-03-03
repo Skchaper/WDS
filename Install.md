@@ -70,14 +70,17 @@ L'icone verte sur le nom du serveur montre que le service est lancé :
 
 **Installation du rôle WDS**
 
-Ouvrir le **Service Manager**.
-Aller dans **Manage** puis **Add Roles and Features**
-Cliquer sur **Next**
-Sélectionner **Role-based or feature-based installation** puis **Next**
-Sélectionner votre serveur et cliquer sur **Next**
-Choisir le rôle **Windows Deployment Services**, dans la fenêtre qui apparaît cliquer sur **Add features**
-Cliquer 4 fois sur **Next** en laissant les options par défaut
-Cliquer sur **Install puis Close**
+> Ouvrir le **Service Manager**
+> Aller dans **Manage** puis **Add Roles and Features**  
+> Cliquer sur **Next**  
+> Sélectionner **Role-based or feature-based installation** puis **Next**  
+> Sélectionner votre serveur et cliquer sur **Next**  
+> Choisir le rôle **Windows Deployment Services**, dans la fenêtre qui apparaît cliquer sur **Add features**  
+> Cliquer 4 fois sur **Next** en laissant les options par défaut  
+> Cliquer sur **Install puis Close**  
+
+L'installation est terminée lorsque le rôle **WDS** apparaît dans le **Server Manager** :  
+![]()
 
 **Configuration du WDS**
 
