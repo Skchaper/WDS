@@ -15,7 +15,7 @@ Ouvrir la console de gestion WDS.
 
 Dans le dossier **Boot Images** on peut voir dans la fenêtre de droite l'image ajoutée :  
 
-![]()
+![9_BOOT_IMAGES.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/9_BOOT_IMAGES.png)
 
 
 
