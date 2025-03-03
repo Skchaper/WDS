@@ -116,7 +116,7 @@ _Le reste des pré-requis est bon_ :
 > Après avoir cliquer sur **Next** la configuration de WDS s'effectue  
 > Quand elle est terminée, cliquer sur **Finish**  
 
-
+![7_TERMINER.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/7_TERMINER.png)
 
 
 **Lancement du service WDS**
