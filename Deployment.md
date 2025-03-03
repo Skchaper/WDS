@@ -38,4 +38,4 @@ _Il est possible de garder plusieurs images d'installation. Dans tous les cas, i
 > En sélectionnant le dossier **Install Images** tu vois dans la fenêtre de droite le groupe d'images que tu as crée.  
 > En cliquant sur celui-ci, tu peux voir l'image d'installation.  
 
-
+![]()
