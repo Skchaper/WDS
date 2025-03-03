@@ -93,17 +93,29 @@ WdsMgmt.msc
 La fenêtre suivante s'ouvre :
 ![5_FEN%C3%8ATRE_WDS.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/5_FEN%C3%8ATRE_WDS.png)
 
-> Cliquer sur le nœud Servers  
+> Cliquer sur le nœud **Servers**  
 > Sélectionner le serveur WDS et cliquer avec le bouton droit de la souris  
-> Sélectionner Configure Server, cette fenêtre apparait :  
+> Sélectionner **Configure Server**, cette fenêtre apparait :  
 
 ![6_CONFIGURE_SERVER.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/6_CONFIGURE_SERVER.png)
 
-Le reste des pré-requis est bon :  
+_Le reste des pré-requis est bon_ :  
 
-> Serveur DHCP, ici le service DHCP est sur le même serveur  
-> Pas de rôle DNS  
-> Partition NTFS réservée pour le stockage des images  
+> _Serveur DHCP, ici le service DHCP est sur le même serveur_  
+> _Pas de rôle DNS_  
+> _Partition NTFS réservée pour le stockage des images_  
+
+> Cliquer sur **Next**  
+> Sélectionner **Standalone server** et cliquer sur **Next**  
+> Choisir l'emplacement du deuxième disque dur et cliquer sur **Next**  
+
+> - Dans la fenêtre **Proxy DHCP Server**, tout laisser par défaut et cliquer sur **Next**.  
+> Une configuration automatique sera ajouté.  
+> - Dans la fenêtre **PXE Server Initial Settings**, sélectionner le comportement du serveur WDS lorsqu'il recevra les requêtes des ordinateurs clients. Il peut soit les ignorer et ne pas répondre, soit répondre seulement aux clients connus, soit aux clients connus et inconnus.  
+> Pour ce lab, on sélectionnera **Respond to all client computers** et ne pas cocher la case en dessous.  
+> Après avoir cliquer sur **Next** la configuration de WDS s'effectue  
+> Quand elle est terminée, cliquer sur **Finish**  
+
 
 
 
