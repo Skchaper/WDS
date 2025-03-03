@@ -26,6 +26,8 @@ Disque WDS :
 
 # WDS en PowerShell
 
+**Installation du rôle WDS**
+
 ```
 Install-WindowsFeature wds-deployment -includemanagementtools
 ```
