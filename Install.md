@@ -24,10 +24,10 @@ Disque WDS :
 > File system : NTFS  
 > Nom : WDS  
 
-
 # WDS en PowerShell
 
-
-
+bash```
+Install-WindowsFeature wds-deployment -includemanagementtools
+```
 
 # WDS en mode graphique
