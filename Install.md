@@ -67,3 +67,21 @@ L'icone verte sur le nom du serveur montre que le service est lancé :
 
 
 # WDS en mode graphique
+
+**Installation du rôle WDS**
+
+Ouvrir le **Service Manager**.
+Aller dans **Manage** puis **Add Roles and Features**
+Cliquer sur **Next**
+Sélectionner **Role-based or feature-based installation** puis **Next**
+Sélectionner votre serveur et cliquer sur **Next**
+Choisir le rôle **Windows Deployment Services**, dans la fenêtre qui apparaît cliquer sur **Add features**
+Cliquer 4 fois sur **Next** en laissant les options par défaut
+Cliquer sur **Install puis Close**
+
+**Configuration du WDS**
+
+
+
+
+**Lancement du service WDS**
