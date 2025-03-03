@@ -62,6 +62,7 @@ wdsutil /Get-Server /Server:srv-wds /Show:Config
 Start-Service -Name WDSServer
 ```
 
+L'icone verte sur le nom du serveur montre que le service est lancé :
 ![3_LANCEMENT_SERVICE.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/3_LANCEMENT_SERVICE.png)
 
 
