@@ -28,6 +28,6 @@ Disque WDS :
 
 ```
 Install-WindowsFeature wds-deployment -includemanagementtools
-
+```
 
 # WDS en mode graphique
