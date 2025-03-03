@@ -123,6 +123,6 @@ _Le reste des pré-requis est bon_ :
 > Clic droit sur le nom du serveur puis cliquer sur **All tasks** puis **Start**.  
 > Un message Successfully started Windows Deployment Services apparaît à la fin du lancement du service.
 
-![]()
+![8_DEMARRER.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/8_DEMARRER.png)
 
 
