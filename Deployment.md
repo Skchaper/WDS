@@ -27,7 +27,7 @@ Ouvrir la console de gestion WDS.
 > Faire un clic droit sur le dossier **Install Images** et cliquez sur **Add Install Image**  
 > Dans la fenêtre **Image Group** on doit créer un groupe d'images. Donner un nom de groupe et cliquer sur **Next**  
 > Aller chercher dans le lecteur DVD, dans le dossier **sources**, sélectionner le fichier **install.wim**, cliquer sur **Open** puis **Next**  
-> Dans la fenêtre Available Image tu as la liste de toutes les images d'OS contenues dans le fichier WIM  
+> Dans la fenêtre **Available Image** tu as la liste de toutes les images d'OS contenues dans le fichier WIM  
 > Sélectionne celle(s) que tu veux et clique sur **Next**  
 
 _Il est possible de garder plusieurs images d'installation. Dans tous les cas, il vaut mieux décocher la case **Use the default name and description for each of the selected images**. En effet, il vaut mieux renommer les images pour qu'elles correspondent au besoin. Par exemple, il peut y avoir une image pour le service Comptabilité, une pour la production, etc._ 
