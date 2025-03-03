@@ -91,7 +91,20 @@ WdsMgmt.msc
 ```
 
 La fenêtre suivante s'ouvre :
+![5_FEN%C3%8ATRE_WDS.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/5_FEN%C3%8ATRE_WDS.png)
+
+> Cliquer sur le nœud Servers  
+> Sélectionner le serveur WDS et cliquer avec le bouton droit de la souris  
+> Sélectionner Configure Server, cette fenêtre apparait :  
+
 ![]()
+
+Le reste des pré-requis est bon :  
+
+> Serveur DHCP, ici le service DHCP est sur le même serveur  
+> Pas de rôle DNS  
+> Partition NTFS réservée pour le stockage des images  
+
 
 
 **Lancement du service WDS**
