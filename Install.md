@@ -32,4 +32,30 @@ Disque WDS :
 Install-WindowsFeature wds-deployment -includemanagementtools
 ```
 
+**Configuration du WDS**
+
+Taper la commande suivante pour configurer le service :
+
+```
+wdsutil /Initialize-Server /Server:srv-wds /remInst:D:\WdsData /Standalone
+```
+
+Exécuter la commande suivante pour configurer la gestion des clients :
+
+```
+wdsutil /Set-Server /Server:srv-wds /AnswerClients:All
+```
+
+La commande suivante va permettre de vérifier la configuration :
+
+```
+wdsutil /Get-Server /Server:srv-wds /Show:Config
+```
+
+**Lancement du service WDS**
+
+```
+wdsutil /Set-Server /Server:srv-wds /AnswerClients:All
+```
+
 # WDS en mode graphique
