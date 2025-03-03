@@ -32,6 +32,8 @@ Disque WDS :
 Install-WindowsFeature wds-deployment -includemanagementtools
 ```
 
+![1_INSTALLATION_R%C3%94LE_WDS.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/1_INSTALLATION_R%C3%94LE_WDS.png)
+
 **Configuration du WDS**
 
 Taper la commande suivante pour configurer le service :
@@ -52,10 +54,15 @@ La commande suivante va permettre de vérifier la configuration :
 wdsutil /Get-Server /Server:srv-wds /Show:Config
 ```
 
+![2_CONFIGURATION_WDS.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/2_CONFIGURATION_WDS.png)
+
 **Lancement du service WDS**
 
 ```
-wdsutil /Set-Server /Server:srv-wds /AnswerClients:All
+Start-Service -Name WDSServer
 ```
+
+![3_LANCEMENT_SERVICE.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/3_LANCEMENT_SERVICE.png)
+
 
 # WDS en mode graphique
