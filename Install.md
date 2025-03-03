@@ -16,9 +16,9 @@
 
 - Ce serveur dispose de 2 disques configurés comme ceci :
 
-> Disque système : 30 Go  
+Disque système : 30 Go  
 
-> Disque WDS :  
+Disque WDS :  
 > Taille de volume : 30 Go  
 > Partition de type : GPT  
 > File system : NTFS  
