@@ -84,7 +84,14 @@ L'installation est terminée lorsque le rôle **WDS** apparaît dans le **Server
 
 **Configuration du WDS**
 
+Lancer la console WDS, taper la commande suivante dans PowerShell :
 
+```
+WdsMgmt.msc
+```
+
+La fenêtre suivante s'ouvre :
+![]()
 
 
 **Lancement du service WDS**
