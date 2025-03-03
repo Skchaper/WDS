@@ -80,7 +80,7 @@ L'icone verte sur le nom du serveur montre que le service est lancé :
 > Cliquer sur **Install puis Close**  
 
 L'installation est terminée lorsque le rôle **WDS** apparaît dans le **Server Manager** :  
-![]()
+![4_WDS_SERVER_MANAGER.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/4_WDS_SERVER_MANAGER.png)
 
 **Configuration du WDS**
 
