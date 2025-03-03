@@ -97,7 +97,7 @@ La fenêtre suivante s'ouvre :
 > Sélectionner le serveur WDS et cliquer avec le bouton droit de la souris  
 > Sélectionner Configure Server, cette fenêtre apparait :  
 
-![]()
+![6_CONFIGURE_SERVER.png](https://github.com/Skchaper/WDS/blob/main/SCREENS/6_CONFIGURE_SERVER.png)
 
 Le reste des pré-requis est bon :  
 
