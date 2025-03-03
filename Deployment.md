@@ -30,13 +30,12 @@ Ouvrir la console de gestion WDS.
 > Dans la fenêtre Available Image tu as la liste de toutes les images d'OS contenues dans le fichier WIM  
 > Sélectionne celle(s) que tu veux et clique sur **Next**  
 
+_Il est possible de garder plusieurs images d'installation. Dans tous les cas, il vaut mieux décocher la case **Use the default name and description for each of the selected images**. En effet, il vaut mieux renommer les images pour qu'elles correspondent au besoin. Par exemple, il peut y avoir une image pour le service Comptabilité, une pour la production, etc._ 
 
-Il est possible de garder plusieurs images d'installation. Dans tous les cas, il vaut mieux décocher la case **Use the default name and description for each of the selected images**. En effet, il vaut mieux renommer les images pour qu'elles correspondent au besoin. Par exemple, il peut y avoir une image pour le service Comptabilité, une pour la production, etc.  
+> Si la case **Use the default name and description for each of the selected images** est cochée, la fenêtre **Image Data** apparaît. On peut y modifier le nom de l'image et sa description.  
+> Cliquer 2 fois sur **Next** puis **Finish**  
 
-Si la case **Use the default name and description for each of the selected images** est cochée, la fenêtre **Image Data** apparaît. On peut y modifier le nom de l'image et sa description.
-Cliquer 2 fois sur **Next** puis **Finish**  
-
-En sélectionnant le dossier **Install Images** tu vois dans la fenêtre de droite le groupe d'images que tu as crée.  
-En cliquant sur celui-ci, tu peux voir l'image d'installation.  
+> En sélectionnant le dossier **Install Images** tu vois dans la fenêtre de droite le groupe d'images que tu as crée.  
+> En cliquant sur celui-ci, tu peux voir l'image d'installation.  
 
 
