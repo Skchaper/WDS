@@ -26,8 +26,8 @@ Disque WDS :
 
 # WDS en PowerShell
 
-bash```
-Install-WindowsFeature wds-deployment -includemanagementtools
 ```
+Install-WindowsFeature wds-deployment -includemanagementtools
+bash```
 
 # WDS en mode graphique
